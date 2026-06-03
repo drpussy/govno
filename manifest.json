@@ -1,0 +1,7 @@
+{
+  "url": "govnochat",                        // required
+  "name": "govnochat",                      // required
+  "iconUrl": "govnochat",               // required
+  "termsOfUseUrl": "govnochat",     // optional
+  "privacyPolicyUrl": "govnochat" // optional
+}
