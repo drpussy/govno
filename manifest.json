@@ -1,7 +1,5 @@
 {
-  "url": "govnochat",                        // required
-  "name": "govnochat",                      // required
-  "iconUrl": "govnochat",               // required
-  "termsOfUseUrl": "govnochat",     // optional
-  "privacyPolicyUrl": "govnochat" // optional
+  "url": "https://t.me/govno_community_bot",
+  "name": "GOVNO Community bot",
+  "iconUrl": "https://raw.githubusercontent.com/drpussy/govno/refs/heads/main/holdersbot.png"
 }
